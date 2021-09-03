@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.playground
+testFramework: junit
+sourceLanguage: java
+buildTool: maven
+features: [annotation-api, app-name, cache-caffeine, config-kubernetes, data, data-jpa, flyway, graalvm, h2, hibernate-jpa, hibernate-validator, http-client, java, java-application, jdbc-hikari, jib, jmx, junit, kubernetes, logback, lombok, management, maven, micrometer, micrometer-jmx, mockito, multi-tenancy, netty-server, openapi, properties, readme, rxjava3, rxjava3-http-client, shade, tracing-zipkin]
